@@ -6,7 +6,7 @@
 Если число кратно и 3, и 5, то программа выводит слово «`FizzBuzz`».
 * Ввод чисел возможен пока пользователь не завершит программу командой "0"
 * Для получении информации необходимо ввести команду "`info`"
-* Программа исключает возможность ввода букв, символов и чисел больше 100\
+* Программа исключает возможность ввода букв, символов и чисел больше 100
 
 ## Запуск
 
@@ -16,7 +16,7 @@ FizzBuzz-1.0-SNAPSHOT-jar-with-dependencies.jar\
 вводим команду java -jar "`ПОЛНЫЙ ПУТЬ ДО ФАЙЛА`"fizzBuzz-1.0-SNAPSHOT-jar-with-dependencies.jar\
 \
 Если встречаются русские символы по пути - экранируем двойными кавычками\
-Пример: java -jar c:\users\spart\onedrive\"Рабочий стол"\fizzbuzz-1.0-snapshot-jar-with-dependencies.jar\
+Пример: java -jar c:\users\spart\onedrive\"Рабочий стол"\fizzbuzz-1.0-snapshot-jar-with-dependencies.jar
 
 ## Пример
 ![FizzBuzzGame](https://user-images.githubusercontent.com/83313585/177057645-bd3071f1-ac2f-4bd8-bb44-936c41ee000a.png)
