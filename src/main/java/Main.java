@@ -48,7 +48,7 @@ public class Main {
         }
     }
 
-    private static void scanNumber() {
+    static void scanNumber() {
         Scanner scanner = new Scanner(System.in);
         String inputNumber = scanner.next();
         switch (inputNumber) {
