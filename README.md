@@ -1,4 +1,4 @@
-# FizzBuzz
+# ![FizzBuzz](https://img.shields.io/badge/-FizzBuzz-0a0a0a?style=for-the-badge&logo=FizzBuzz)
 
 `FizzBuzz` - это популярная игра, которая выводит на экран числа от 1 до 100.\
 При этом вместо чисел, кратных трем, программа выводит слово «`Fizz`»,\
